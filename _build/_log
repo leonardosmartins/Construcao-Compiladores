@@ -1,0 +1,21 @@
+### Starting build.
+Backtrace:
+                      - Failed to build the target main.byte
+                          - Building main.byte:
+                              - Building main.cmo:
+                                  - Failed to build all of these:
+                                      - Building main.ml:
+                                          - Failed to build all of these:
+                                              - Building main.mly
+                                              - Building main.mlypack
+                                              - Building main.mll
+                                      - Building main.mli:
+                                          - Failed to build all of these:
+                                              - Building main.mly
+                                              - Building main.mlypack
+                                      - Building main.mlpack
+                                      - Building main.mli:
+                                          - Failed to build all of these:
+                                              - Building main.mly
+                                              - Building main.mlypack
+# Compilation unsuccessful.
